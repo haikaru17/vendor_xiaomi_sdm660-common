@@ -468,6 +468,7 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
+    chargeonlymode \
     QtiTelephonyService \
     datastatusnotification \
     imssettings \
